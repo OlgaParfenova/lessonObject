@@ -109,4 +109,55 @@
 // const key = 'y';
 // console.log(obj[key]);
 
+// task 11
+
+// let obj = {x: 1, y: 2, z: 3};
+// console.log(obj['x']);
+
+// task 12
+
+// let obj = {x: 1, y: 2, z: 3};
+// let key = 'x';
+// console.log(obj[key]);
+
+// task 13
+
+// let obj = {x: 1, y: 2, z: 3};
+// let prop = 'x';
+// console.log(obj[prop]);
+
+// task 14
+
+// let obj = {x: 1, y: 2, z: 3};
+// let prop = 'x';
+// console.log(obj[prop]);
+
+// task 15
+
+// let key = 'x';
+//
+// let obj = {
+//     [key]: 1,
+//     y: 2,
+//     z: 3
+// };
+//
+// console.log(obj[key]);
+
+// task 16
+
+// let key1 = 'x';
+// let key2 = 'y';
+// let key3 = 'z';
+//
+// let obj = {
+//     [key1]: 1,
+//     [key2]: 2,
+//     [key3]: 3
+// };
+//
+// console.log(obj[key1] === obj['x']);
+
+// task 17
+
 
