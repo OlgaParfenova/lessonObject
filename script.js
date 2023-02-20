@@ -181,3 +181,65 @@
 
 // let obj = {x: 1, y: 2, z: 3};
 // console.log(Object.keys(obj).length);
+
+// task 21
+
+// let test = 7;
+//
+// if (test > 10) {
+//     console.log('test is bigger than 10');
+// } else {
+//     console.log('test is smaller than 10');
+// }
+
+// task 22
+
+// let v1 = 4;
+// let v2 = 8;
+//
+// if (v1 > v2) {
+//     console.log('v1 is bigger than v2');
+// } else {
+//     console.log('v2 is bigger than v1');
+// }
+
+// task 23
+
+// let v1 = 5;
+// let v2 = 8;
+//
+// if (v1 == v2) {
+//     console.log('v1 equals v2');
+// } else {
+//     console.log("v1 and v2 aren't equal");
+// }
+
+// task 24
+
+// let test1 = 'abc';
+// let test2 = 'abc';
+//
+// if (test1 === test2) {
+//     console.log('test1 equals test2')
+// } else {
+//     console.log("test1 and test2 aren't equal");
+// }
+
+// task 25
+
+// let test1 = 3;
+// let test2 = 2;
+//
+// if (test1 !== test2) {
+//     console.log('+++');
+// } else {
+//     console.log('---');
+// }
+
+// task 26
+
+// if ( !(num1 >= 0 || num2 <= 10) ) {
+//     console.log('+++');
+// } else {
+//     console.log('---');
+// }
